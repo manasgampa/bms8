@@ -9,7 +9,7 @@ public class EmployeeVO {
 	
 	public EmployeeVO(String empId, String name, int sal) {
 		super();
-		this.empId = empId;
+		this.empId = empId;//emp id
 		this.name = name;
 		this.sal = sal;
 	}
