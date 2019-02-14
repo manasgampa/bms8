@@ -6,7 +6,7 @@ public class EmployeeVO {
 	public String name;
 	public int sal;
 	
-	//emp vo objects up to date
+	//emp vo 
 	public EmployeeVO(String empId, String name, int sal) {
 		super();
 		this.empId = empId;//emp id
